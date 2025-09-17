@@ -1,5 +1,5 @@
 # CODSOFT
-Titanic Survival Prediction 
+1.FIRST TASK:Titanic Survival Prediction 
 
 This project uses the famous Titanic dataset to build a machine learning model that predicts whether a passenger survived or not. The dataset includes details such as passenger age, gender, ticket class, fare, and more.
 
@@ -50,4 +50,9 @@ Pandas & NumPy – Data manipulation
 Matplotlib & Seaborn – Visualization
 
 Scikit-learn – Machine learning models
+
+
+
+
+
 
